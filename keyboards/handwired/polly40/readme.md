@@ -1,6 +1,6 @@
 # Polly40
 
-![Polly40](https://i.imgur.com/QJCQcFAh.jpg)
+![Polly40](https://i.imgur.com/jMrEfpB.jpg)
 
 A handwired 40% keyboard running a Pro micro Atmega32u4 controller
 
